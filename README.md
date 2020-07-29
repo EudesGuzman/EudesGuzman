@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/EudesGuzman/EudesGuzman/blob/master/alien.png" alt="" width=350px height=465px/>
+<img align="right" src="https://github.com/EudesGuzman/EudesGuzman/blob/master/alien.png" alt="" width=296px height=343px/>
 
 ### Hi, I'm Eudes 👋
 
