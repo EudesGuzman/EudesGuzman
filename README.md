@@ -1,3 +1,5 @@
+<img src="https://github.com/EudesGuzman/EudesGuzman/blob/master/assets/banner.gif">
+
 <h2># Hi, I'm Eudes 👋</h2>
 
 **Web designer UX/UI**, working in the world of web design since 2011. I have taken part in the web design and online marketing of big companies such as Bioparc, after finishing my studies in **Commercial Management and Marketing in Barcelona.**
