@@ -8,7 +8,7 @@ I am a **proactive person**, with great initiative under the objective of achiev
 
 <br />
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-<br />
+<br /><br />
 
 <img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/zf8yrM8nVERvW/giphy.gif" />
 
